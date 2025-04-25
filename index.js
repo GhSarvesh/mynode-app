@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('Hello from Nodejs App, Testing to Deploy');
+  res.send('Hellow from Nodejs App, Testing to Deploy');
 
 });
 
