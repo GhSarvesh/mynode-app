@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('Hellow from Nodejs App, Testing to Deploy');
+  res.send('Helloww from Nodejs App, Testing to Deploy New Update');
 
 });
 
